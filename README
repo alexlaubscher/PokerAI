@@ -3,4 +3,4 @@ Alex Laubscher
 
 This end goal of this is to build a Poker AI that can be game theory optimal heads up Texas Hold 'Em. At this stage, the code is able to calculate the equity of a given hand both against any opponent's hand or a developed range of hands. The next step in the code will be to develop a range for the opponent in as this is integral for understanding game theory optimal strategy. 
 
-E-mail: aclaubscher17@gmail
+E-mail: aclaubscher17@gmail.com
